@@ -1,0 +1,16 @@
+E:\SE1408\bin\Debug\net5.0\SE1408.exe
+E:\SE1408\bin\Debug\net5.0\SE1408.deps.json
+E:\SE1408\bin\Debug\net5.0\SE1408.runtimeconfig.json
+E:\SE1408\bin\Debug\net5.0\SE1408.runtimeconfig.dev.json
+E:\SE1408\bin\Debug\net5.0\SE1408.dll
+E:\SE1408\bin\Debug\net5.0\ref\SE1408.dll
+E:\SE1408\bin\Debug\net5.0\SE1408.pdb
+E:\SE1408\obj\Debug\net5.0\SE1408.csprojAssemblyReference.cache
+E:\SE1408\obj\Debug\net5.0\SE1408.GeneratedMSBuildEditorConfig.editorconfig
+E:\SE1408\obj\Debug\net5.0\SE1408.AssemblyInfoInputs.cache
+E:\SE1408\obj\Debug\net5.0\SE1408.AssemblyInfo.cs
+E:\SE1408\obj\Debug\net5.0\SE1408.csproj.CoreCompileInputs.cache
+E:\SE1408\obj\Debug\net5.0\SE1408.dll
+E:\SE1408\obj\Debug\net5.0\ref\SE1408.dll
+E:\SE1408\obj\Debug\net5.0\SE1408.pdb
+E:\SE1408\obj\Debug\net5.0\SE1408.genruntimeconfig.cache

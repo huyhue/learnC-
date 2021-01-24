@@ -1,0 +1,20 @@
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\StaticResources\bin\Debug\StaticResources.dll
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\StaticResources\bin\Debug\StaticResources.pdb
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\StaticResources\bin\Debug\en\StaticResources.resources.dll
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\StaticResources\obj\Debug\StaticResources.Resources.resources
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\StaticResources\obj\Debug\StaticResources.Resources.en.resources
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\StaticResources\obj\Debug\StaticResources.csproj.GenerateResource.Cache
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\StaticResources\obj\Debug\en\StaticResources.resources.dll
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\StaticResources\obj\Debug\StaticResources.dll
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\StaticResources\obj\Debug\StaticResources.pdb
+C:\Users\Admin\Downloads\Compressed\oLS\StaticResources\bin\Debug\StaticResources.dll
+C:\Users\Admin\Downloads\Compressed\oLS\StaticResources\bin\Debug\StaticResources.pdb
+C:\Users\Admin\Downloads\Compressed\oLS\StaticResources\bin\Debug\en\StaticResources.resources.dll
+C:\Users\Admin\Downloads\Compressed\oLS\StaticResources\obj\Debug\StaticResources.csprojAssemblyReference.cache
+C:\Users\Admin\Downloads\Compressed\oLS\StaticResources\obj\Debug\StaticResources.Resources.resources
+C:\Users\Admin\Downloads\Compressed\oLS\StaticResources\obj\Debug\StaticResources.Resources.en.resources
+C:\Users\Admin\Downloads\Compressed\oLS\StaticResources\obj\Debug\StaticResources.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\Compressed\oLS\StaticResources\obj\Debug\StaticResources.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Compressed\oLS\StaticResources\obj\Debug\en\StaticResources.resources.dll
+C:\Users\Admin\Downloads\Compressed\oLS\StaticResources\obj\Debug\StaticResources.dll
+C:\Users\Admin\Downloads\Compressed\oLS\StaticResources\obj\Debug\StaticResources.pdb

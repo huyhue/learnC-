@@ -1,0 +1,258 @@
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\OnlineShop\bin\roslyn\csc.exe
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\OnlineShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\OnlineShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\OnlineShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\OnlineShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\OnlineShop\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\OnlineShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\OnlineShop\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\OnlineShop\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\OnlineShop\bin\roslyn\vbc.exe
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\OnlineShop\bin\roslyn\VBCSCompiler.exe
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\OnlineShop\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\OnlineShop\bin\OnlineShop.dll.config
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\OnlineShop\bin\OnlineShop.dll
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\OnlineShop\bin\OnlineShop.pdb
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\OnlineShop\bin\Antlr3.Runtime.dll
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\OnlineShop\bin\BotDetect.dll
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\OnlineShop\bin\BotDetect.Web.UI.Mvc.dll
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\OnlineShop\bin\Common.dll
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\OnlineShop\bin\EntityFramework.dll
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\OnlineShop\bin\EntityFramework.SqlServer.dll
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\OnlineShop\bin\Facebook.dll
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\OnlineShop\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\OnlineShop\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\OnlineShop\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\OnlineShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\OnlineShop\bin\Microsoft.Owin.dll
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\OnlineShop\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\OnlineShop\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\OnlineShop\bin\Microsoft.Owin.Security.dll
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\OnlineShop\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\OnlineShop\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\OnlineShop\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\OnlineShop\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\OnlineShop\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\OnlineShop\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\OnlineShop\bin\Model.dll
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\OnlineShop\bin\Newtonsoft.Json.dll
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\OnlineShop\bin\Owin.dll
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\OnlineShop\bin\PagedList.dll
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\OnlineShop\bin\PagedList.Mvc.dll
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\OnlineShop\bin\StaticResources.dll
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\OnlineShop\bin\System.Web.Helpers.dll
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\OnlineShop\bin\System.Web.Mvc.dll
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\OnlineShop\bin\System.Web.Optimization.dll
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\OnlineShop\bin\System.Web.Razor.dll
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\OnlineShop\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\OnlineShop\bin\System.Web.WebPages.dll
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\OnlineShop\bin\System.Web.WebPages.Razor.dll
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\OnlineShop\bin\WebGrease.dll
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\OnlineShop\bin\Common.pdb
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\OnlineShop\bin\Model.pdb
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\OnlineShop\bin\StaticResources.pdb
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\OnlineShop\bin\Facebook.xml
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\OnlineShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\OnlineShop\bin\PagedList.xml
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\OnlineShop\bin\PagedList.Mvc.xml
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\OnlineShop\bin\System.Web.Helpers.xml
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\OnlineShop\bin\System.Web.Mvc.xml
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\OnlineShop\bin\System.Web.Optimization.xml
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\OnlineShop\bin\System.Web.Razor.xml
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\OnlineShop\bin\System.Web.WebPages.xml
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\OnlineShop\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\OnlineShop\bin\System.Web.WebPages.Razor.xml
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\OnlineShop\bin\Antlr3.Runtime.pdb
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\OnlineShop\bin\Newtonsoft.Json.xml
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\OnlineShop\bin\EntityFramework.xml
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\OnlineShop\bin\EntityFramework.SqlServer.xml
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\OnlineShop\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\OnlineShop\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\OnlineShop\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\OnlineShop\bin\Microsoft.Owin.xml
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\OnlineShop\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\OnlineShop\bin\Microsoft.Owin.Security.xml
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\OnlineShop\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\OnlineShop\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\OnlineShop\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\OnlineShop\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\OnlineShop\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\OnlineShop\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\OnlineShop\bin\en\StaticResources.resources.dll
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\OnlineShop\obj\Debug\OnlineShop.csprojResolveAssemblyReference.cache
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\OnlineShop\obj\Debug\OnlineShop.dll
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\OnlineShop\obj\Debug\OnlineShop.pdb
+C:\Users\Admin\Downloads\Compressed\oLS\OnlineShop\bin\roslyn\csc.exe
+C:\Users\Admin\Downloads\Compressed\oLS\OnlineShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Downloads\Compressed\oLS\OnlineShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Downloads\Compressed\oLS\OnlineShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Downloads\Compressed\oLS\OnlineShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Downloads\Compressed\oLS\OnlineShop\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Downloads\Compressed\oLS\OnlineShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Downloads\Compressed\oLS\OnlineShop\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Downloads\Compressed\oLS\OnlineShop\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Downloads\Compressed\oLS\OnlineShop\bin\roslyn\vbc.exe
+C:\Users\Admin\Downloads\Compressed\oLS\OnlineShop\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Downloads\Compressed\oLS\OnlineShop\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Downloads\Compressed\oLS\OnlineShop\bin\OnlineShop.dll.config
+C:\Users\Admin\Downloads\Compressed\oLS\OnlineShop\bin\OnlineShop.dll
+C:\Users\Admin\Downloads\Compressed\oLS\OnlineShop\bin\OnlineShop.pdb
+C:\Users\Admin\Downloads\Compressed\oLS\OnlineShop\bin\Antlr3.Runtime.dll
+C:\Users\Admin\Downloads\Compressed\oLS\OnlineShop\bin\BotDetect.dll
+C:\Users\Admin\Downloads\Compressed\oLS\OnlineShop\bin\BotDetect.Web.UI.Mvc.dll
+C:\Users\Admin\Downloads\Compressed\oLS\OnlineShop\bin\Common.dll
+C:\Users\Admin\Downloads\Compressed\oLS\OnlineShop\bin\EntityFramework.dll
+C:\Users\Admin\Downloads\Compressed\oLS\OnlineShop\bin\EntityFramework.SqlServer.dll
+C:\Users\Admin\Downloads\Compressed\oLS\OnlineShop\bin\Facebook.dll
+C:\Users\Admin\Downloads\Compressed\oLS\OnlineShop\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Admin\Downloads\Compressed\oLS\OnlineShop\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Admin\Downloads\Compressed\oLS\OnlineShop\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Admin\Downloads\Compressed\oLS\OnlineShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Downloads\Compressed\oLS\OnlineShop\bin\Microsoft.Owin.dll
+C:\Users\Admin\Downloads\Compressed\oLS\OnlineShop\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Admin\Downloads\Compressed\oLS\OnlineShop\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Admin\Downloads\Compressed\oLS\OnlineShop\bin\Microsoft.Owin.Security.dll
+C:\Users\Admin\Downloads\Compressed\oLS\OnlineShop\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Admin\Downloads\Compressed\oLS\OnlineShop\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Admin\Downloads\Compressed\oLS\OnlineShop\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Admin\Downloads\Compressed\oLS\OnlineShop\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Admin\Downloads\Compressed\oLS\OnlineShop\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Admin\Downloads\Compressed\oLS\OnlineShop\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Downloads\Compressed\oLS\OnlineShop\bin\Model.dll
+C:\Users\Admin\Downloads\Compressed\oLS\OnlineShop\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Downloads\Compressed\oLS\OnlineShop\bin\Owin.dll
+C:\Users\Admin\Downloads\Compressed\oLS\OnlineShop\bin\PagedList.dll
+C:\Users\Admin\Downloads\Compressed\oLS\OnlineShop\bin\PagedList.Mvc.dll
+C:\Users\Admin\Downloads\Compressed\oLS\OnlineShop\bin\StaticResources.dll
+C:\Users\Admin\Downloads\Compressed\oLS\OnlineShop\bin\System.Web.Helpers.dll
+C:\Users\Admin\Downloads\Compressed\oLS\OnlineShop\bin\System.Web.Mvc.dll
+C:\Users\Admin\Downloads\Compressed\oLS\OnlineShop\bin\System.Web.Optimization.dll
+C:\Users\Admin\Downloads\Compressed\oLS\OnlineShop\bin\System.Web.Razor.dll
+C:\Users\Admin\Downloads\Compressed\oLS\OnlineShop\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\Downloads\Compressed\oLS\OnlineShop\bin\System.Web.WebPages.dll
+C:\Users\Admin\Downloads\Compressed\oLS\OnlineShop\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\Downloads\Compressed\oLS\OnlineShop\bin\WebGrease.dll
+C:\Users\Admin\Downloads\Compressed\oLS\OnlineShop\bin\Common.pdb
+C:\Users\Admin\Downloads\Compressed\oLS\OnlineShop\bin\Model.pdb
+C:\Users\Admin\Downloads\Compressed\oLS\OnlineShop\bin\Model.dll.config
+C:\Users\Admin\Downloads\Compressed\oLS\OnlineShop\bin\StaticResources.pdb
+C:\Users\Admin\Downloads\Compressed\oLS\OnlineShop\bin\Facebook.xml
+C:\Users\Admin\Downloads\Compressed\oLS\OnlineShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Downloads\Compressed\oLS\OnlineShop\bin\PagedList.xml
+C:\Users\Admin\Downloads\Compressed\oLS\OnlineShop\bin\PagedList.Mvc.xml
+C:\Users\Admin\Downloads\Compressed\oLS\OnlineShop\bin\System.Web.Helpers.xml
+C:\Users\Admin\Downloads\Compressed\oLS\OnlineShop\bin\System.Web.Mvc.xml
+C:\Users\Admin\Downloads\Compressed\oLS\OnlineShop\bin\System.Web.Optimization.xml
+C:\Users\Admin\Downloads\Compressed\oLS\OnlineShop\bin\System.Web.Razor.xml
+C:\Users\Admin\Downloads\Compressed\oLS\OnlineShop\bin\System.Web.WebPages.xml
+C:\Users\Admin\Downloads\Compressed\oLS\OnlineShop\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\Downloads\Compressed\oLS\OnlineShop\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\Downloads\Compressed\oLS\OnlineShop\bin\Antlr3.Runtime.pdb
+C:\Users\Admin\Downloads\Compressed\oLS\OnlineShop\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Downloads\Compressed\oLS\OnlineShop\bin\EntityFramework.xml
+C:\Users\Admin\Downloads\Compressed\oLS\OnlineShop\bin\EntityFramework.SqlServer.xml
+C:\Users\Admin\Downloads\Compressed\oLS\OnlineShop\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Admin\Downloads\Compressed\oLS\OnlineShop\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Admin\Downloads\Compressed\oLS\OnlineShop\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Admin\Downloads\Compressed\oLS\OnlineShop\bin\Microsoft.Owin.xml
+C:\Users\Admin\Downloads\Compressed\oLS\OnlineShop\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Admin\Downloads\Compressed\oLS\OnlineShop\bin\Microsoft.Owin.Security.xml
+C:\Users\Admin\Downloads\Compressed\oLS\OnlineShop\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Admin\Downloads\Compressed\oLS\OnlineShop\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Admin\Downloads\Compressed\oLS\OnlineShop\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Admin\Downloads\Compressed\oLS\OnlineShop\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Admin\Downloads\Compressed\oLS\OnlineShop\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Admin\Downloads\Compressed\oLS\OnlineShop\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Admin\Downloads\Compressed\oLS\OnlineShop\bin\en\StaticResources.resources.dll
+C:\Users\Admin\Downloads\Compressed\oLS\OnlineShop\obj\Debug\OnlineShop.csprojAssemblyReference.cache
+C:\Users\Admin\Downloads\Compressed\oLS\OnlineShop\obj\Debug\OnlineShop.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Compressed\oLS\OnlineShop\obj\Debug\OnlineShop.csproj.CopyComplete
+C:\Users\Admin\Downloads\Compressed\oLS\OnlineShop\obj\Debug\OnlineShop.dll
+C:\Users\Admin\Downloads\Compressed\oLS\OnlineShop\obj\Debug\OnlineShop.pdb
+E:\Learn C#\Web\oLS\OnlineShop\bin\roslyn\csc.exe
+E:\Learn C#\Web\oLS\OnlineShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Learn C#\Web\oLS\OnlineShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Learn C#\Web\oLS\OnlineShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Learn C#\Web\oLS\OnlineShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Learn C#\Web\oLS\OnlineShop\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Learn C#\Web\oLS\OnlineShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Learn C#\Web\oLS\OnlineShop\bin\roslyn\System.Collections.Immutable.dll
+E:\Learn C#\Web\oLS\OnlineShop\bin\roslyn\System.Reflection.Metadata.dll
+E:\Learn C#\Web\oLS\OnlineShop\bin\roslyn\vbc.exe
+E:\Learn C#\Web\oLS\OnlineShop\bin\roslyn\VBCSCompiler.exe
+E:\Learn C#\Web\oLS\OnlineShop\bin\roslyn\VBCSCompiler.exe.config
+E:\Learn C#\Web\oLS\OnlineShop\bin\OnlineShop.dll.config
+E:\Learn C#\Web\oLS\OnlineShop\bin\OnlineShop.dll
+E:\Learn C#\Web\oLS\OnlineShop\bin\OnlineShop.pdb
+E:\Learn C#\Web\oLS\OnlineShop\bin\Antlr3.Runtime.dll
+E:\Learn C#\Web\oLS\OnlineShop\bin\BotDetect.dll
+E:\Learn C#\Web\oLS\OnlineShop\bin\BotDetect.Web.UI.Mvc.dll
+E:\Learn C#\Web\oLS\OnlineShop\bin\Common.dll
+E:\Learn C#\Web\oLS\OnlineShop\bin\EntityFramework.dll
+E:\Learn C#\Web\oLS\OnlineShop\bin\EntityFramework.SqlServer.dll
+E:\Learn C#\Web\oLS\OnlineShop\bin\Facebook.dll
+E:\Learn C#\Web\oLS\OnlineShop\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Learn C#\Web\oLS\OnlineShop\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Learn C#\Web\oLS\OnlineShop\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Learn C#\Web\oLS\OnlineShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Learn C#\Web\oLS\OnlineShop\bin\Microsoft.Owin.dll
+E:\Learn C#\Web\oLS\OnlineShop\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Learn C#\Web\oLS\OnlineShop\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Learn C#\Web\oLS\OnlineShop\bin\Microsoft.Owin.Security.dll
+E:\Learn C#\Web\oLS\OnlineShop\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Learn C#\Web\oLS\OnlineShop\bin\Microsoft.Owin.Security.Google.dll
+E:\Learn C#\Web\oLS\OnlineShop\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Learn C#\Web\oLS\OnlineShop\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Learn C#\Web\oLS\OnlineShop\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Learn C#\Web\oLS\OnlineShop\bin\Microsoft.Web.Infrastructure.dll
+E:\Learn C#\Web\oLS\OnlineShop\bin\Model.dll
+E:\Learn C#\Web\oLS\OnlineShop\bin\Newtonsoft.Json.dll
+E:\Learn C#\Web\oLS\OnlineShop\bin\Owin.dll
+E:\Learn C#\Web\oLS\OnlineShop\bin\PagedList.dll
+E:\Learn C#\Web\oLS\OnlineShop\bin\PagedList.Mvc.dll
+E:\Learn C#\Web\oLS\OnlineShop\bin\StaticResources.dll
+E:\Learn C#\Web\oLS\OnlineShop\bin\System.Web.Helpers.dll
+E:\Learn C#\Web\oLS\OnlineShop\bin\System.Web.Mvc.dll
+E:\Learn C#\Web\oLS\OnlineShop\bin\System.Web.Optimization.dll
+E:\Learn C#\Web\oLS\OnlineShop\bin\System.Web.Razor.dll
+E:\Learn C#\Web\oLS\OnlineShop\bin\System.Web.WebPages.Deployment.dll
+E:\Learn C#\Web\oLS\OnlineShop\bin\System.Web.WebPages.dll
+E:\Learn C#\Web\oLS\OnlineShop\bin\System.Web.WebPages.Razor.dll
+E:\Learn C#\Web\oLS\OnlineShop\bin\WebGrease.dll
+E:\Learn C#\Web\oLS\OnlineShop\bin\Common.pdb
+E:\Learn C#\Web\oLS\OnlineShop\bin\Model.pdb
+E:\Learn C#\Web\oLS\OnlineShop\bin\Model.dll.config
+E:\Learn C#\Web\oLS\OnlineShop\bin\StaticResources.pdb
+E:\Learn C#\Web\oLS\OnlineShop\bin\Facebook.xml
+E:\Learn C#\Web\oLS\OnlineShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Learn C#\Web\oLS\OnlineShop\bin\PagedList.xml
+E:\Learn C#\Web\oLS\OnlineShop\bin\PagedList.Mvc.xml
+E:\Learn C#\Web\oLS\OnlineShop\bin\System.Web.Helpers.xml
+E:\Learn C#\Web\oLS\OnlineShop\bin\System.Web.Mvc.xml
+E:\Learn C#\Web\oLS\OnlineShop\bin\System.Web.Optimization.xml
+E:\Learn C#\Web\oLS\OnlineShop\bin\System.Web.Razor.xml
+E:\Learn C#\Web\oLS\OnlineShop\bin\System.Web.WebPages.xml
+E:\Learn C#\Web\oLS\OnlineShop\bin\System.Web.WebPages.Deployment.xml
+E:\Learn C#\Web\oLS\OnlineShop\bin\System.Web.WebPages.Razor.xml
+E:\Learn C#\Web\oLS\OnlineShop\bin\Antlr3.Runtime.pdb
+E:\Learn C#\Web\oLS\OnlineShop\bin\Newtonsoft.Json.xml
+E:\Learn C#\Web\oLS\OnlineShop\bin\EntityFramework.xml
+E:\Learn C#\Web\oLS\OnlineShop\bin\EntityFramework.SqlServer.xml
+E:\Learn C#\Web\oLS\OnlineShop\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Learn C#\Web\oLS\OnlineShop\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Learn C#\Web\oLS\OnlineShop\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Learn C#\Web\oLS\OnlineShop\bin\Microsoft.Owin.xml
+E:\Learn C#\Web\oLS\OnlineShop\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Learn C#\Web\oLS\OnlineShop\bin\Microsoft.Owin.Security.xml
+E:\Learn C#\Web\oLS\OnlineShop\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Learn C#\Web\oLS\OnlineShop\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Learn C#\Web\oLS\OnlineShop\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Learn C#\Web\oLS\OnlineShop\bin\Microsoft.Owin.Security.Google.xml
+E:\Learn C#\Web\oLS\OnlineShop\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Learn C#\Web\oLS\OnlineShop\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Learn C#\Web\oLS\OnlineShop\bin\en\StaticResources.resources.dll
+E:\Learn C#\Web\oLS\OnlineShop\obj\Debug\OnlineShop.csprojAssemblyReference.cache
+E:\Learn C#\Web\oLS\OnlineShop\obj\Debug\OnlineShop.csproj.CoreCompileInputs.cache
+E:\Learn C#\Web\oLS\OnlineShop\obj\Debug\OnlineShop.csproj.CopyComplete
+E:\Learn C#\Web\oLS\OnlineShop\obj\Debug\OnlineShop.dll
+E:\Learn C#\Web\oLS\OnlineShop\obj\Debug\OnlineShop.pdb

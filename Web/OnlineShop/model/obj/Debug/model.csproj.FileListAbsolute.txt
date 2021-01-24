@@ -1,0 +1,12 @@
+E:\Learn C#\Web\OnlineShop\model\bin\Debug\model.dll.config
+E:\Learn C#\Web\OnlineShop\model\bin\Debug\model.dll
+E:\Learn C#\Web\OnlineShop\model\bin\Debug\model.pdb
+E:\Learn C#\Web\OnlineShop\model\bin\Debug\EntityFramework.dll
+E:\Learn C#\Web\OnlineShop\model\bin\Debug\EntityFramework.SqlServer.dll
+E:\Learn C#\Web\OnlineShop\model\bin\Debug\EntityFramework.xml
+E:\Learn C#\Web\OnlineShop\model\bin\Debug\EntityFramework.SqlServer.xml
+E:\Learn C#\Web\OnlineShop\model\obj\Debug\model.csprojAssemblyReference.cache
+E:\Learn C#\Web\OnlineShop\model\obj\Debug\model.csproj.CoreCompileInputs.cache
+E:\Learn C#\Web\OnlineShop\model\obj\Debug\model.csproj.CopyComplete
+E:\Learn C#\Web\OnlineShop\model\obj\Debug\model.dll
+E:\Learn C#\Web\OnlineShop\model\obj\Debug\model.pdb

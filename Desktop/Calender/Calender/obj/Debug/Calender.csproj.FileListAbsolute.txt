@@ -1,0 +1,9 @@
+E:\C# Desktop\Calender\Calender\bin\Debug\Calender.exe.config
+E:\C# Desktop\Calender\Calender\bin\Debug\Calender.exe
+E:\C# Desktop\Calender\Calender\bin\Debug\Calender.pdb
+E:\C# Desktop\Calender\Calender\obj\Debug\Calender.csprojAssemblyReference.cache
+E:\C# Desktop\Calender\Calender\obj\Debug\Calender.Properties.Resources.resources
+E:\C# Desktop\Calender\Calender\obj\Debug\Calender.csproj.GenerateResource.cache
+E:\C# Desktop\Calender\Calender\obj\Debug\Calender.csproj.CoreCompileInputs.cache
+E:\C# Desktop\Calender\Calender\obj\Debug\Calender.exe
+E:\C# Desktop\Calender\Calender\obj\Debug\Calender.pdb

@@ -1,0 +1,9 @@
+E:\Learn C#\Web\WebApplication3\DISample.Services\bin\Debug\netstandard2.0\DISample.Services.deps.json
+E:\Learn C#\Web\WebApplication3\DISample.Services\bin\Debug\netstandard2.0\DISample.Services.dll
+E:\Learn C#\Web\WebApplication3\DISample.Services\bin\Debug\netstandard2.0\DISample.Services.pdb
+E:\Learn C#\Web\WebApplication3\DISample.Services\obj\Debug\netstandard2.0\DISample.Services.csprojAssemblyReference.cache
+E:\Learn C#\Web\WebApplication3\DISample.Services\obj\Debug\netstandard2.0\DISample.Services.AssemblyInfoInputs.cache
+E:\Learn C#\Web\WebApplication3\DISample.Services\obj\Debug\netstandard2.0\DISample.Services.AssemblyInfo.cs
+E:\Learn C#\Web\WebApplication3\DISample.Services\obj\Debug\netstandard2.0\DISample.Services.csproj.CoreCompileInputs.cache
+E:\Learn C#\Web\WebApplication3\DISample.Services\obj\Debug\netstandard2.0\DISample.Services.dll
+E:\Learn C#\Web\WebApplication3\DISample.Services\obj\Debug\netstandard2.0\DISample.Services.pdb

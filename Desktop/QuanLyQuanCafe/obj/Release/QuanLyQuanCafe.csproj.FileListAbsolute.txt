@@ -1,0 +1,13 @@
+E:\C# Desktop\QuanLyQuanCafe\bin\Release\QuanLyQuanCafe.exe.config
+E:\C# Desktop\QuanLyQuanCafe\bin\Release\QuanLyQuanCafe.exe
+E:\C# Desktop\QuanLyQuanCafe\bin\Release\QuanLyQuanCafe.pdb
+E:\C# Desktop\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.csprojAssemblyReference.cache
+E:\C# Desktop\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.fAccountProfile.resources
+E:\C# Desktop\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.fAdmin.resources
+E:\C# Desktop\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.fLogin.resources
+E:\C# Desktop\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.fTableManager.resources
+E:\C# Desktop\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.Properties.Resources.resources
+E:\C# Desktop\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.csproj.GenerateResource.cache
+E:\C# Desktop\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.csproj.CoreCompileInputs.cache
+E:\C# Desktop\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.exe
+E:\C# Desktop\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.pdb

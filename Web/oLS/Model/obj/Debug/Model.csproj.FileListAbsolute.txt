@@ -1,0 +1,61 @@
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\Model\bin\Debug\Model.dll.config
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\Model\bin\Debug\Model.dll
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\Model\bin\Debug\Model.pdb
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\Model\bin\Debug\EntityFramework.dll
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\Model\bin\Debug\PagedList.dll
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\Model\bin\Debug\PagedList.Mvc.dll
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\Model\bin\Debug\StaticResources.dll
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\Model\bin\Debug\StaticResources.pdb
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\Model\bin\Debug\EntityFramework.xml
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\Model\bin\Debug\PagedList.xml
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\Model\bin\Debug\PagedList.Mvc.xml
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\Model\bin\Debug\en\StaticResources.resources.dll
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\Model\obj\Debug\Model.dll
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\Model\obj\Debug\Model.pdb
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\Model\bin\Debug\Common.dll
+C:\Users\ToanBN\Documents\Visual Studio 2015\Projects\OnlineShop\Model\bin\Debug\Common.pdb
+C:\Users\Admin\Downloads\Compressed\oLS\Model\bin\Debug\Model.dll.config
+C:\Users\Admin\Downloads\Compressed\oLS\Model\bin\Debug\Model.dll
+C:\Users\Admin\Downloads\Compressed\oLS\Model\bin\Debug\Model.pdb
+C:\Users\Admin\Downloads\Compressed\oLS\Model\bin\Debug\Common.dll
+C:\Users\Admin\Downloads\Compressed\oLS\Model\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Downloads\Compressed\oLS\Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Downloads\Compressed\oLS\Model\bin\Debug\PagedList.dll
+C:\Users\Admin\Downloads\Compressed\oLS\Model\bin\Debug\PagedList.Mvc.dll
+C:\Users\Admin\Downloads\Compressed\oLS\Model\bin\Debug\StaticResources.dll
+C:\Users\Admin\Downloads\Compressed\oLS\Model\bin\Debug\Common.pdb
+C:\Users\Admin\Downloads\Compressed\oLS\Model\bin\Debug\StaticResources.pdb
+C:\Users\Admin\Downloads\Compressed\oLS\Model\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Downloads\Compressed\oLS\Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Downloads\Compressed\oLS\Model\bin\Debug\PagedList.xml
+C:\Users\Admin\Downloads\Compressed\oLS\Model\bin\Debug\PagedList.Mvc.xml
+C:\Users\Admin\Downloads\Compressed\oLS\Model\bin\Debug\en\StaticResources.resources.dll
+C:\Users\Admin\Downloads\Compressed\oLS\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\Admin\Downloads\Compressed\oLS\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Compressed\oLS\Model\obj\Debug\Model.csproj.CopyComplete
+C:\Users\Admin\Downloads\Compressed\oLS\Model\obj\Debug\Model.dll
+C:\Users\Admin\Downloads\Compressed\oLS\Model\obj\Debug\Model.pdb
+E:\Learn C#\Web\oLS\Model\obj\Debug\Model.csprojAssemblyReference.cache
+E:\Learn C#\Web\oLS\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+E:\Learn C#\Web\oLS\Model\obj\Debug\Model.dll
+E:\Learn C#\Web\oLS\Model\obj\Debug\Model.pdb
+E:\Learn C#\Web\oLS\Model\bin\Debug\Model.dll.config
+E:\Learn C#\Web\oLS\Model\bin\Debug\Model.dll
+E:\Learn C#\Web\oLS\Model\bin\Debug\Model.pdb
+E:\Learn C#\Web\oLS\Model\bin\Debug\Common.dll
+E:\Learn C#\Web\oLS\Model\bin\Debug\EntityFramework.dll
+E:\Learn C#\Web\oLS\Model\bin\Debug\EntityFramework.SqlServer.dll
+E:\Learn C#\Web\oLS\Model\bin\Debug\PagedList.dll
+E:\Learn C#\Web\oLS\Model\bin\Debug\PagedList.Mvc.dll
+E:\Learn C#\Web\oLS\Model\bin\Debug\StaticResources.dll
+E:\Learn C#\Web\oLS\Model\bin\Debug\Common.pdb
+E:\Learn C#\Web\oLS\Model\bin\Debug\StaticResources.pdb
+E:\Learn C#\Web\oLS\Model\bin\Debug\EntityFramework.xml
+E:\Learn C#\Web\oLS\Model\bin\Debug\EntityFramework.SqlServer.xml
+E:\Learn C#\Web\oLS\Model\bin\Debug\PagedList.xml
+E:\Learn C#\Web\oLS\Model\bin\Debug\PagedList.Mvc.xml
+E:\Learn C#\Web\oLS\Model\bin\Debug\en\StaticResources.resources.dll
+E:\Learn C#\Web\oLS\Model\obj\Debug\Model.csproj.CopyComplete
