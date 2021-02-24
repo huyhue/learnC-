@@ -1,0 +1,16 @@
+E:\Learn C#\Console\OOP1\bin\Debug\net5.0\OOP1.exe
+E:\Learn C#\Console\OOP1\bin\Debug\net5.0\OOP1.deps.json
+E:\Learn C#\Console\OOP1\bin\Debug\net5.0\OOP1.runtimeconfig.json
+E:\Learn C#\Console\OOP1\bin\Debug\net5.0\OOP1.runtimeconfig.dev.json
+E:\Learn C#\Console\OOP1\bin\Debug\net5.0\OOP1.dll
+E:\Learn C#\Console\OOP1\bin\Debug\net5.0\ref\OOP1.dll
+E:\Learn C#\Console\OOP1\bin\Debug\net5.0\OOP1.pdb
+E:\Learn C#\Console\OOP1\obj\Debug\net5.0\OOP1.csprojAssemblyReference.cache
+E:\Learn C#\Console\OOP1\obj\Debug\net5.0\OOP1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Learn C#\Console\OOP1\obj\Debug\net5.0\OOP1.AssemblyInfoInputs.cache
+E:\Learn C#\Console\OOP1\obj\Debug\net5.0\OOP1.AssemblyInfo.cs
+E:\Learn C#\Console\OOP1\obj\Debug\net5.0\OOP1.csproj.CoreCompileInputs.cache
+E:\Learn C#\Console\OOP1\obj\Debug\net5.0\OOP1.dll
+E:\Learn C#\Console\OOP1\obj\Debug\net5.0\ref\OOP1.dll
+E:\Learn C#\Console\OOP1\obj\Debug\net5.0\OOP1.pdb
+E:\Learn C#\Console\OOP1\obj\Debug\net5.0\OOP1.genruntimeconfig.cache

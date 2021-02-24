@@ -1,0 +1,11 @@
+C:\Users\Admin\Desktop\OnlineShop_52_2\StaticResources\bin\Release\StaticResources.dll
+C:\Users\Admin\Desktop\OnlineShop_52_2\StaticResources\bin\Release\StaticResources.pdb
+C:\Users\Admin\Desktop\OnlineShop_52_2\StaticResources\bin\Release\en\StaticResources.resources.dll
+C:\Users\Admin\Desktop\OnlineShop_52_2\StaticResources\obj\Release\StaticResources.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\OnlineShop_52_2\StaticResources\obj\Release\StaticResources.Resources.resources
+C:\Users\Admin\Desktop\OnlineShop_52_2\StaticResources\obj\Release\StaticResources.Resources.en.resources
+C:\Users\Admin\Desktop\OnlineShop_52_2\StaticResources\obj\Release\StaticResources.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\OnlineShop_52_2\StaticResources\obj\Release\StaticResources.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\OnlineShop_52_2\StaticResources\obj\Release\en\StaticResources.resources.dll
+C:\Users\Admin\Desktop\OnlineShop_52_2\StaticResources\obj\Release\StaticResources.dll
+C:\Users\Admin\Desktop\OnlineShop_52_2\StaticResources\obj\Release\StaticResources.pdb
